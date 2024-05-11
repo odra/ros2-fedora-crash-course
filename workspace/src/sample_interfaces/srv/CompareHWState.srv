@@ -1,0 +1,4 @@
+HWState state
+HWState other
+---
+bool equal
